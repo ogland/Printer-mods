@@ -1,4 +1,6 @@
-# Printer mods
+# U2C with PG7 and pivoting coupler
+
+![image](https://user-images.githubusercontent.com/37978198/213685539-d7bd7f8b-23f3-447c-af84-3d90817bf185.png)
  
 ## Instructions
 
