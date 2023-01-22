@@ -23,3 +23,5 @@ Print coupler 4 mm.stl and frame pipe connector.stl using a small brim of 2-3 mm
 Thank you to criticaldistance for laying the foundation for the toolhead mod and giving me great ideas for implementation.
 
 Also thanks to ByThorsThunder who made the elongated front for the SB. Find that here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf
+
+Disclaimer: Only tested and verified with Bondtech LGX lite for 2.4, but should work just fine with spec Voron SB CW2. Let me know!
