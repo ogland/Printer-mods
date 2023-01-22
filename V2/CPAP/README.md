@@ -19,3 +19,7 @@ Print coupler 4 mm.stl and frame pipe connector.stl using a small brim of 2-3 mm
 *   Some CA glue to attach the hose to the fan properly
 
 ![image](https://user-images.githubusercontent.com/37978198/213911423-fc5d8ed3-4a4f-44a5-99ed-def7ff8b448b.png)
+
+Thank you to criticaldistance for laying the foundation for the toolhead mod and giving me great ideas for implementation.
+
+Also thanks to ByThorsThunder who made the elongated front for the SB. Find that here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf
